@@ -1,0 +1,7 @@
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\SimpleWebServer
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\appsettings.Development.json
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\appsettings.json
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\SimpleWebServer.dll
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\SimpleWebServer.deps.json
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\SimpleWebServer.runtimeconfig.json
+D:\dev\cgcu\SimpleWebServer\SimpleWebServer\publish\SimpleWebServer.pdb
